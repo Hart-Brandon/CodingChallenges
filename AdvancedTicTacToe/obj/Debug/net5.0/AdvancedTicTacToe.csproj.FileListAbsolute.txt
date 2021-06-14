@@ -1,0 +1,16 @@
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.csproj.AssemblyReference.cache
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.AssemblyInfoInputs.cache
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.AssemblyInfo.cs
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.csproj.CoreCompileInputs.cache
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.exe
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.deps.json
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.runtimeconfig.json
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.runtimeconfig.dev.json
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.dll
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\ref\AdvancedTicTacToe.dll
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\bin\Debug\net5.0\AdvancedTicTacToe.pdb
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.dll
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\ref\AdvancedTicTacToe.dll
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.pdb
+D:\Documents\VSCodeProjects\AdvancedTicTacToe\obj\Debug\net5.0\AdvancedTicTacToe.genruntimeconfig.cache

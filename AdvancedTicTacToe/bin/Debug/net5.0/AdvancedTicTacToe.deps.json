@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdvancedTicTacToe/1.0.0": {
+        "runtime": {
+          "AdvancedTicTacToe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedTicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

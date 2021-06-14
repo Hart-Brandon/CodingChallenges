@@ -1,0 +1,16 @@
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.exe
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.deps.json
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.runtimeconfig.json
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.runtimeconfig.dev.json
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.dll
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\ref\UniqueEmailAddresses.dll
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\bin\Debug\net5.0\UniqueEmailAddresses.pdb
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.csproj.AssemblyReference.cache
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.AssemblyInfoInputs.cache
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.AssemblyInfo.cs
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.csproj.CoreCompileInputs.cache
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.dll
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\ref\UniqueEmailAddresses.dll
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.pdb
+D:\Documents\VSCodeProjects\UniqueEmailAddresses\obj\Debug\net5.0\UniqueEmailAddresses.genruntimeconfig.cache
